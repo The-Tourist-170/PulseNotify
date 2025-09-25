@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "reminder.frequency.minutes",
+  "type": "java.lang.String",
+  "description": "A description for 'reminder.frequency.minutes'"
+}]}
